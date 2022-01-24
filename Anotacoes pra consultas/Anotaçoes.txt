@@ -1,0 +1,10 @@
+
+Assuntos pra estudar
+ Git/Github
+ Java
+ Sql
+ Selenium
+ BDD
+ Ruby
+ Ingles
+ 
